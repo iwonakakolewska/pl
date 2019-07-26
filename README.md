@@ -5,19 +5,7 @@
         <link href="https://fonts.googleapis.com/css?family=Dosis" rel="stylesheet">
         <title>Rozwoj dzieci</title>
         <style>
-            
-            .koncoweczka {
-                text-align: center;
-                padding-top: 15px;
-                padding-bottom: 15px;
-                color: white;
-            }
-            #duzytekst {
-                width: 68%;
-                height: auto;
-                float: right;
-                margin-top: 3%;
-            }
+           
             .link {
                 text-decoration: none;
                 color:white;

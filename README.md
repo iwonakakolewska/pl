@@ -221,10 +221,7 @@
         <img id="iwona"src="iwona.jpg.PNG" width="300" height="400px"/>
             <div id="duzytekst">
                 <div id="zzz">
-       <h4 class="duzytekst" >Nazywam się Iwona Kąkolewska. Pracuję od 25 lat z dziećmi w wieku przedzkolnym. Jestem nauczycielem mianowanym: wychowania fizycznego, wychowania przedszkolnego, fizjoterapetuą, oligofrenopedagogiem, a także terapeutą ręki. Dodatkowo zawodowo interesuję się psychologią oraz medycyną. Prywatnie pasjonują mnie zagadnienia dotyczące nauki, historii oraz przyrody. Bardzo lubię pomagać innym ludziom i w pełni realizuję się w pracy terapeuty. Moja ciekawość świata, gotowość do podejemowania nowych wyzwań, samodoskonalenia oraz umiejętność dostosowania do zmieniających się warunków sprawiają, że praca jest dla mnie pasją, nie tylko źródłem utrzymania. Solidne przygotowanie teoretyczne i praktyczne, pozwala mi na właściwe podejście do dziecka.</h4>
-                 </div>
-            <div id="xxx">
-        <h4   class="duzytekst">Na mojej stronie internetowej zachęcam rodziców do pracy z dziećmi. Będę regularnie zamieszczała ćwiczenia. Zorganizuję to w taki sposób, żeby były to zadania dostosowane do wszystkich dzieci oraz do dzieci z różnymi potrzebami (porażenie mózgowe, zespół Downa, nadpobudliwość psychoruchowa, zaburzenia motoryki ręki, dzieci z autyzmem, hipochondroplazją, itd.). Wykorzystam w tym celu od lat gromadzoną w mojej bibliotece literturę.</h4>
+       
              </div>
             </div> 
             
